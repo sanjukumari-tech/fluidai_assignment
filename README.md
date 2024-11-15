@@ -1,6 +1,8 @@
 # Fluid Movie-AI
 
-Welcome to **Fluid Movie-AI**! This project is a movie search app built using **React** and **TypeScript**. It allows users to search for movies, view their details, and paginate through movie posters, all presented in a clean, simple design with custom CSS styling.
+Welcome to **Fluid Movie-AI**!
+ This project is a movie search app built using **React** and **TypeScript**. 
+ It allows users to search for movies, view their details, and paginate through movie posters, all presented in a clean, simple design with custom CSS styling.
 
 ## Features
 
