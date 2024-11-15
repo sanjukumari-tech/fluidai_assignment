@@ -74,16 +74,28 @@ npm start
 The app should now be running at http://localhost:3000.
 
 Usage
-Movie Search
+*Movie Search*
+
 Type the movie name into the search bar and hit Search to find movies.
-Movie Details
+
+*Movie Details*
+
 Click on any movie poster from the search results to view its detailed information, including plot, release date, and more.
-Pagination
+
+*Pagination*
+
 Navigate between pages of movie posters by clicking the Next and Previous buttons. Each page shows 6 movie posters.
-Technologies Used
+
+*Technologies Used*
+
 React: A JavaScript library for building user interfaces.
+
 TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
+
 React Router DOM: A library for declarative routing in React applications.
+
 CSS: Simple CSS used for styling the components and making the UI visually appealing.
-Contributing
+
+*Contributing*
+
 Feel free to fork the repository and submit issues or pull requests. Contributions are always welcome!# fluidai_assignment
