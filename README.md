@@ -13,13 +13,13 @@ Welcome to **Fluid Movie-AI**! This project is a movie search app built using **
 ## Screenshots
 
 ### 1. Search Page
-![Search Page](public/images/search-page.png)
+![Search Page](src/assets/z.png)
 
 ### 2. Movie Details Page
-![Movie Details](public/images/movie-details.png)
+![Movie Details](src/assets/y.png)
 
 ### 3. Pagination in Action
-![Pagination](src/assets/Screenshot 2024-11-15 213832.png)
+![Pagination](src/assets/x.png)
 
 ## Getting Started
 
