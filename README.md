@@ -96,6 +96,8 @@ React Router DOM: A library for declarative routing in React applications.
 
 CSS: Simple CSS used for styling the components and making the UI visually appealing.
 
+deployed link : https://fluidai-assignment.vercel.app/
+
 *Contributing*
 
 Feel free to fork the repository and submit issues or pull requests. Contributions are always welcome!# fluidai_assignment
